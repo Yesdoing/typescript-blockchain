@@ -1,0 +1,8 @@
+{
+  "name": "typescript-blockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Yesdoing/typescript-blockchain.git",
+  "author": "Jane Lee <Yesdoing13@gmail.com>",
+  "license": "MIT"
+}
