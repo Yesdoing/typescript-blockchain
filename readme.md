@@ -1,5 +1,6 @@
 ### What is this project?
-- Making TypeChain
+- Making TypeChain 
+- This repository was summerized at [NomadCoder Lecture](https://academy.nomadcoders.co/courses/enrolled/303219)
 
 #### How to start typescript?
 1. yarn init
