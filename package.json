@@ -6,6 +6,7 @@
   "author": "Jane Lee <Yesdoing13@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "crypto-js": "^3.1.9-1",
     "typescript": "^3.1.1"
   },
   "scripts": {
